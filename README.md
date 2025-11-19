@@ -1,6 +1,8 @@
 
 (https://drive.google.com/drive/folders/13biZ19xPIcXWV4409WTsU9-0l3O-kBZz?usp=drive_link)
-Project ini untuk memenuhi UTS Pemrograman Mobile 2
+
+
+
 
 
 
